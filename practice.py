@@ -1,2 +1,3 @@
 print("hello world")
-print("pasha helooooooooooooo")
+print('chachuuuuuuuuuu')
+print("pasha heloooooooooooojjjjjjo")
