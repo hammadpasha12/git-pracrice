@@ -1,2 +1,3 @@
 print("hello world")
-print("pasha bhai")
+def hello():
+    print("this is pasha bhai")
