@@ -1,3 +1,4 @@
 print("hello world")
-
-print("pasha heloooooooooooojjjjjjo")
+def hello():
+    print("hello function")
+    
